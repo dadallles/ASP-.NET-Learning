@@ -1,0 +1,10 @@
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\Dawid\Documents\GIT\ASP-.NET-Learning\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
